@@ -1,6 +1,8 @@
 ![GoldBro233's GitHub stats](https://git-stats.goldbro.top/api?username=GoldBro233&count_private=true&show_icons=true&theme=tokyonight&locale=cn)
 
-![GoldBro233's GitHub Streak](https://streak-stats.demolab.com/?user=GoldBro233&theme=tokyonight&locale=cn)
+![GoldBro233's Github Coding stats](https://git-stats.goldbro.top/api/top-langs/?username=GoldBro233&hide_title=true&hide_border=false&theme=tokyonight&locale=cn&layout=compact)
+
+![GoldBro233's GitHub Streak](https://git-streak.goldbro.top/?user=GoldBro233&theme=tokyonight)
 
 <p align="center" >
 	<picture>
