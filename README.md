@@ -8,3 +8,8 @@
 	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/GoldBro233/GoldBro233/output-3d-contrib/bitmap-day.svg" />
 	</picture>
 </p>
+
+# Special Thanks
+
+- For Github-README-Stats, please check this -> [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+- For Github-3D-Contrib, please check this -> [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib)
