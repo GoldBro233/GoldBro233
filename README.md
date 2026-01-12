@@ -12,6 +12,10 @@ This is my Streaks in Github:
 
 ![GoldBro233's GitHub Streak](https://git-streak.goldbro.top/?user=GoldBro233&theme=tokyonight)
 
+This is my Wakapi statistics in all my projects:
+
+![GoldBro233's All Projects Wakatime](https://git-stats.goldbro.top/api/wakatime?username=Goldbro233&api_domain=waka.goldbro.top&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&layout=compact)
+
 And finally this is my favourite -- the heatmap of my github commits:
 
 <p align="center" >
@@ -27,3 +31,4 @@ And finally this is my favourite -- the heatmap of my github commits:
 - For Github-README-Stats, please check this -> [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 - For Github-3D-Contrib, please check this -> [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib)
 - For Github-README-Streak, please check this -> [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+- For a self-hosted Wakatime API, please check this -> [muety/wakapi](https://github.com/muety/wakapi)
