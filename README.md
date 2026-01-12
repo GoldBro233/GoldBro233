@@ -1,8 +1,18 @@
-![GoldBro233's GitHub stats](https://git-stats.goldbro.top/api?username=GoldBro233&count_private=true&show_icons=true&theme=tokyonight&locale=cn)
+# Some Stats About My Github
 
-![GoldBro233's Github Coding stats](https://git-stats.goldbro.top/api/top-langs/?username=GoldBro233&hide_title=true&hide_border=false&theme=tokyonight&locale=cn&layout=compact)
+You, or myself actually, can track my stats in Github, about my Overall Stats and Streaks cross days.
+
+And don't forget about the My Yearly commits heatmap down below. It looks fancy!
+
+This is my overall stats about last year:
+
+![GoldBro233's GitHub stats](https://git-stats.goldbro.top/api?username=GoldBro233&count_private=true&show_icons=true&theme=tokyonight&locale=en)
+
+This is my Streaks in Github:
 
 ![GoldBro233's GitHub Streak](https://git-streak.goldbro.top/?user=GoldBro233&theme=tokyonight)
+
+And finally this is my favourite -- the heatmap of my github commits:
 
 <p align="center" >
 	<picture>
