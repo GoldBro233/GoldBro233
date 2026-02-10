@@ -26,6 +26,8 @@ And finally this is my favourite -- the heatmap of my github commits:
 	</picture>
 </p>
 
+# Contact me
+
 # Special Thanks
 
 - For Github-README-Stats, please check this -> [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
