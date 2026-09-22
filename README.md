@@ -6,7 +6,7 @@ And don't forget about the My Yearly commits heatmap down below. It looks fancy!
 
 This is my overall stats about last year:
 
-![GoldBro233's GitHub stats](https://git-stats.goldbro.top/api?username=GoldBro233&count_private=true&show_icons=true&theme=tokyonight&locale=en)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=GoldBro233&show_icons=true&include_all_commits=true&theme=algolia)](https://github-stats-extended.vercel.app/api?username=GoldBro233&show_icons=true&include_all_commits=true&theme=algolia)
 
 This is my Streaks in Github:
 
@@ -30,7 +30,8 @@ And finally this is my favourite -- the heatmap of my github commits:
 
 # Special Thanks
 
-- For Github-README-Stats, please check this -> [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+- For Github-README-Stats, please check this -> (No more maintainance) [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+- For Github-README-Stats further demonstration, please check this -> [stats-organization/github-stats-extended](https://github.com/stats-organization/github-stats-extended)
 - For Github-3D-Contrib, please check this -> [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib)
 - For Github-README-Streak, please check this -> [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 - For a self-hosted Wakatime API, please check this -> [muety/wakapi](https://github.com/muety/wakapi)
